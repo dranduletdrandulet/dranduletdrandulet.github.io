@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /gallery/
+Disallow: /admin/
+Sitemap: https://dranduletdrandulet.github.io/sitemap.xml
